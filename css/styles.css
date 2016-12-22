@@ -1,0 +1,35 @@
+@font-face {
+  font-family: gofont;
+  src: url(ClearSans-Thin.ttf);
+}
+
+body {
+  background-color: #10133D;
+}
+
+#title {
+  border-color: #FBFCF6;
+  border-width: 3px;
+  border-style: solid;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 200px;
+  height: 200px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+#words {
+  font-family: gofont;
+  color: #FBFCF6;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+}
